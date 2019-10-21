@@ -48,11 +48,11 @@ def naming_system
      label: "Phylum",
      sub_category: {
        label: "Class"
-     sub_category: {
-      label: "Order"
-       }
      }
    }
+ }
+ {
+  label: "Order"
  }
 
 end
